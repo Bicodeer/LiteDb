@@ -1,0 +1,11 @@
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\bin\Debug\LiteDb_Ex01.exe.config
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\obj\Debug\LiteDb_Ex01.Form1.resources
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\obj\Debug\LiteDb_Ex01.Properties.Resources.resources
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\obj\Debug\LiteDb_Ex01.csproj.GenerateResource.Cache
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\bin\Debug\LiteDb_Ex01.exe
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\bin\Debug\LiteDb_Ex01.pdb
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\bin\Debug\LiteDB.dll
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\bin\Debug\LiteDB.xml
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\obj\Debug\LiteDb_Ex01.exe
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\obj\Debug\LiteDb_Ex01.pdb
+C:\Users\Gamze\Desktop\STAJ DOSYASI\Example\LiteDb_Ex01\LiteDb_Ex01\obj\Debug\LiteDb_Ex01.csprojResolveAssemblyReference.cache
